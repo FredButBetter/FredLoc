@@ -1,0 +1,51 @@
+Reference,Qty,Value,Exclude from Board
+"C1,C4,CPF4",3,100n (film),
+"C2,C6,C22, CPF3",4,10uF,
+C3,1,220n (film),
+C5,1,220uF,
+C7,1,100uF,
+C8,1,10n (film),
+C9,1,680pF (film),
+"C10,C11,C13,C14,C15,C18,C19",7,2.2uF,
+C12,1,1n (film),
+"C16,C20",2,4.7uF,
+C17,1,220n (ceramic),
+"C21,C23",2,1uF,
+"CPF1,CPF2",2,470uF,
+D1,1,1N4001,
+Q1,1,BF256B,
+"Q2,Q3,Q4,Q5,Q6,Q7",6,2N5089,
+"Q8,Q9",2,2N3906,
+"R1,R2,R9,R15,R28,R40,R43,R46",8,1M,
+"R3,R19,R23",3,4.7K,
+"R4,R5",2,560R,
+"R6, R11,R35",3,2.2k,"R6 is on input pot, not board"
+"R7,R14",2,33K,
+R8,1,100R,"On pad switch, not board"
+"R10, R27",2,330R,"R10 is on pad switch, not board"
+R12,1,330K,
+"R13,R25",2,120K,
+R16,1,2.7M,
+R17,1,3.3K,
+R18,1,100K,
+"R20,R41,R42",3,47K,
+R21,1,13K,
+"R22,R26,R30",3,22K,
+"R24,R36",2,470K,
+R29,1,220K,
+R31,1,680R,
+R32,1,680K,
+R33,1,150K,
+"R34,R38,R39,RPR4,RPR5",5,10K,
+R37,1,180K,
+"R44,R45",2,39R,
+"RPR1,RPR2,RPR3",3,100R - 1W,
+U1,1,TL072,
+,,,
+Additional supplies:,,,
+"Input pot, Output Pot",2,A50K,Excluded from board
+"Pad, Thresh, Speed Switches",3,ON/OFF/ON Switch,Excluded from board
+On/Off Switch,1,DPDT Switch,Excluded from board
+9V 5.5 x 2.1mm Tip-Positive barrel plug ,1,,Excluded from board
+"TS ¼"" (6.35mm) Audio Jack",2,,Excluded from board
+Wire,,,
